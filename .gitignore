@@ -1,0 +1,5 @@
+data/processed
+VN-celeb_align.zip
+data/VN-celeb_align.zip
+work_space/model/model_cpu_final.pth
+work_space/save/model_cpu_final.pth
